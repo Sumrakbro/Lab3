@@ -14,4 +14,5 @@ interface Actions {
 interface ObjectsAction{
     abstract void Fall(Objects purpose);
     abstract void Drift() throws InterruptedException;
+
 }

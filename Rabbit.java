@@ -12,4 +12,6 @@ class Rabbit extends Characters{
     public void protrude() {
 
     }
+
+
 }

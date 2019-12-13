@@ -10,4 +10,5 @@ class Pig extends Characters{
         System.out.println(this.name + " " + act_stat + " worried");
     }
 
+
 }
